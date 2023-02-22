@@ -1,5 +1,5 @@
-lunes
-martes
-miércoles
-jueves
-viernes
+Lunes
+Martes
+Miércoles
+Jueves
+Viernes
